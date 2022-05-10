@@ -1,0 +1,16 @@
+{
+    "login" : "Log in",
+    "email" : "Email",
+    "password": "Password",
+    "dontHaveAccount": "Don't have an account? Sign up here",
+    "singUp": "Sign Up",
+    "fullName": "Full name",
+    "confirmPassword": "confirm password",
+    "create": "Create",
+    "join": "Join",
+    "welcome": "Welcome To Book Club",
+    "bodyWelcome": "Since you are not in a club you cant select to join a club or create a club",
+    "finishedBook": "Finished Book",
+    "bookHistory": "Book club history",
+    "chat": "chat"
+}
